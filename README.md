@@ -8,3 +8,5 @@ O script altera:
  - Servidor DNS preferencial
  - Servidor DNS alternativo
 
+Caso não tenha permissões para efetuar as alterações, o código força execução como Administrador
+
